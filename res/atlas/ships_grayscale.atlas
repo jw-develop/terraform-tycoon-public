@@ -1,0 +1,153 @@
+
+ships_grayscale.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shipA0
+  xy: 0, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipA1
+  xy: 64, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipA2
+  xy: 128, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipA3
+  xy: 192, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipA4
+  xy: 256, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipA5
+  xy: 320, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipA6
+  xy: 384, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB0
+  xy: 0, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB1
+  xy: 64, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB2
+  xy: 128, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB3
+  xy: 192, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB4
+  xy: 256, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB5
+  xy: 320, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipB6
+  xy: 384, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC0
+  xy: 0, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC1
+  xy: 64, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC2
+  xy: 128, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC3
+  xy: 192, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC4
+  xy: 256, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC5
+  xy: 320, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shipC6
+  xy: 384, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

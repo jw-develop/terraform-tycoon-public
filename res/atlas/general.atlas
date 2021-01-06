@@ -228,3 +228,10 @@ button3
   orig: 64, 64
   offset: 0, 0
   index: -1
+blank0
+  xy: 0, 352
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
