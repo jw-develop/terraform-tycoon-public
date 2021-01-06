@@ -1,0 +1,174 @@
+
+spritesheet.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+planet0
+  xy: 0, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+planet1
+  xy: 64, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+planet2
+  xy: 128, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+planet3
+  xy: 192, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+planet4
+  xy: 256, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship0
+  xy: 0, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship1
+  xy: 64, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship2
+  xy: 128, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship3
+  xy: 192, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship4
+  xy: 256, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship5
+  xy: 320, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ship6
+  xy: 384, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+asteroids0
+  xy: 0, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+part0
+  xy: 0, 192
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+part1
+  xy: 64, 192
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+part2
+  xy: 128, 192
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+part3
+  xy: 192, 192
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+part4
+  xy: 256, 192
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+part5
+  xy: 320, 192
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+unused_old_passengers0
+  xy: 0, 256
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button0
+  xy: 0, 288
+  size: 128, 32
+  rotate: false
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+cargo0
+  xy: 0, 320
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo1
+  xy: 32, 320
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo2
+  xy: 64, 320
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

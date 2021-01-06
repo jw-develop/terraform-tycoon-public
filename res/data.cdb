@@ -1,0 +1,449 @@
+{
+	"sheets": [
+		{
+			"name": "planetInfo",
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "name",
+					"opt": true,
+					"display": null,
+					"kind": "localizable"
+				},
+				{
+					"typeStr": "3",
+					"name": "size"
+				},
+				{
+					"typeStr": "0",
+					"name": "id",
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "rotateSpeed"
+				},
+				{
+					"typeStr": "1",
+					"name": "links"
+				},
+				{
+					"typeStr": "4",
+					"name": "population",
+					"display": 1
+				},
+				{
+					"typeStr": "4",
+					"name": "wealth",
+					"display": 1
+				},
+				{
+					"typeStr": "4",
+					"name": "technology",
+					"display": 1
+				}
+			],
+			"lines": [
+				{
+					"name": "Zykos Major",
+					"id": "planet0",
+					"rotateSpeed": 0.00065,
+					"links": "1,14,3",
+					"size": 40,
+					"wealth": 0.1,
+					"population": 0.8,
+					"technology": 0.2
+				},
+				{
+					"name": "Titania",
+					"id": "planet1",
+					"rotateSpeed": -0.00335,
+					"links": "3,0,9,7,14",
+					"size": 80,
+					"wealth": 0.4,
+					"population": 0.6,
+					"technology": 0.5
+				},
+				{
+					"name": "Grathga",
+					"id": "planet2",
+					"rotateSpeed": -0.00134,
+					"links": "4,1,8,14",
+					"size": 30,
+					"wealth": 0.4,
+					"population": 0.3,
+					"technology": 0.7
+				},
+				{
+					"id": "planet3",
+					"rotateSpeed": 0.00397,
+					"name": "Koolios",
+					"links": "1,0",
+					"size": 50,
+					"wealth": 0.02,
+					"population": 0.01,
+					"technology": 0.01
+				},
+				{
+					"id": "planet4",
+					"rotateSpeed": 0.00513,
+					"name": "Riven",
+					"links": "2",
+					"size": 45,
+					"wealth": 0.8,
+					"population": 0,
+					"technology": 0.8
+				},
+				{
+					"size": 50,
+					"id": "planet5",
+					"rotateSpeed": 0.00527,
+					"links": "6,9,10,12",
+					"wealth": 0.2,
+					"name": "Xandarr",
+					"population": 0.9,
+					"technology": 0.2
+				},
+				{
+					"size": 65,
+					"id": "planet6",
+					"rotateSpeed": 0.00481,
+					"links": "5,8,11",
+					"wealth": 0.55,
+					"name": "Celare",
+					"population": 0.6,
+					"technology": 0.5
+				},
+				{
+					"size": 70,
+					"id": "planet7",
+					"rotateSpeed": -0.00538,
+					"links": "1,11",
+					"wealth": 0.4,
+					"name": "Vorp",
+					"population": 0.3,
+					"technology": 0.5
+				},
+				{
+					"size": 120,
+					"id": "planet8",
+					"rotateSpeed": -0.00276,
+					"links": "2,6",
+					"wealth": 0.02,
+					"population": 0.01,
+					"technology": 0.01,
+					"name": "Deterus"
+				},
+				{
+					"size": 10,
+					"id": "planet9",
+					"rotateSpeed": -0.00798,
+					"links": "1,5,13",
+					"wealth": 0.02,
+					"name": "Vesta",
+					"population": 0.01,
+					"technology": 0.02
+				},
+				{
+					"size": 60,
+					"id": "planet10",
+					"rotateSpeed": 0.00598,
+					"links": "5,11",
+					"wealth": 0.2,
+					"name": "Zykos Minor",
+					"population": 0.9,
+					"technology": 0.2
+				},
+				{
+					"size": 90,
+					"id": "planet11",
+					"rotateSpeed": -0.0031,
+					"links": "6,7,10",
+					"wealth": 0.55,
+					"name": "Carissia",
+					"population": 0.6,
+					"technology": 0.5
+				},
+				{
+					"size": 40,
+					"id": "planet12",
+					"rotateSpeed": 0.00324,
+					"links": "5",
+					"wealth": 0.4,
+					"population": 0.3,
+					"technology": 0.7,
+					"name": "Kellstar"
+				},
+				{
+					"size": 35,
+					"id": "planet13",
+					"rotateSpeed": 0.0061,
+					"links": "9",
+					"population": 0,
+					"wealth": 0.8,
+					"technology": 0.8,
+					"name": "Malthus"
+				},
+				{
+					"size": 30,
+					"id": "planet14",
+					"rotateSpeed": 0.001,
+					"links": "1,0,2",
+					"population": 0.9,
+					"wealth": 0.9,
+					"technology": 0,
+					"name": "Zykos Metro"
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "stats",
+			"columns": [
+				{
+					"typeStr": "1",
+					"name": "name"
+				},
+				{
+					"typeStr": "3",
+					"name": "maxValue"
+				},
+				{
+					"typeStr": "0",
+					"name": "id",
+					"display": null
+				}
+			],
+			"lines": [
+				{
+					"maxValue": 500,
+					"name": "Fuel",
+					"id": "fuel"
+				},
+				{
+					"name": "Funds",
+					"maxValue": 5000,
+					"id": "funds"
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "module",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "1",
+					"name": "name",
+					"display": null
+				},
+				{
+					"typeStr": "3",
+					"name": "baseCost"
+				},
+				{
+					"typeStr": "3",
+					"name": "tonnage"
+				},
+				{
+					"typeStr": "5:CABIN,CARGO,FUEL,ENGINE,OTHER",
+					"name": "type"
+				},
+				{
+					"typeStr": "4",
+					"name": "effect",
+					"display": null
+				},
+				{
+					"typeStr": "4",
+					"name": "hospitality"
+				}
+			],
+			"lines": [
+				{
+					"id": "moduleA0",
+					"name": "Fuel Tank",
+					"baseCost": 50,
+					"tonnage": 2,
+					"type": 2,
+					"effect": 10,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleB0",
+					"name": "Fuel Compression Chamber",
+					"baseCost": 100,
+					"tonnage": 2,
+					"type": 2,
+					"effect": 20,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleC0",
+					"name": "Ultimate Fuel Tank",
+					"baseCost": 300,
+					"tonnage": 2,
+					"type": 2,
+					"effect": 40,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleA1",
+					"name": "Engine",
+					"baseCost": 50,
+					"tonnage": 1,
+					"type": 3,
+					"effect": 5,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleB1",
+					"name": "Hyperdrive",
+					"baseCost": 100,
+					"tonnage": 1,
+					"type": 3,
+					"effect": 10,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleC1",
+					"name": "FTL Drive",
+					"baseCost": 300,
+					"tonnage": 1,
+					"type": 3,
+					"effect": 15,
+					"hospitality": 0
+				},
+				{
+					"id": "objective0",
+					"name": "Gravity Fluxer",
+					"baseCost": 500,
+					"tonnage": 4,
+					"type": 4,
+					"effect": 0,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleA2",
+					"name": "Cargo Box",
+					"baseCost": 50,
+					"tonnage": 1,
+					"type": 1,
+					"effect": 2,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleB2",
+					"name": "Cargo Canister",
+					"baseCost": 100,
+					"tonnage": 1,
+					"type": 1,
+					"effect": 4,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleC2",
+					"name": "Anti-gravity Cargo Bay",
+					"baseCost": 300,
+					"tonnage": 1,
+					"type": 1,
+					"effect": 8,
+					"hospitality": 0
+				},
+				{
+					"id": "moduleA3",
+					"name": "Economy Cabin",
+					"baseCost": 50,
+					"tonnage": 2,
+					"type": 0,
+					"effect": 1,
+					"hospitality": 0.1
+				},
+				{
+					"id": "moduleB3",
+					"name": "Business Cabin",
+					"baseCost": 150,
+					"tonnage": 2,
+					"type": 0,
+					"effect": 2,
+					"hospitality": 0.4
+				},
+				{
+					"id": "moduleC3",
+					"name": "First Class Cabin",
+					"baseCost": 300,
+					"tonnage": 2,
+					"type": 0,
+					"effect": 2,
+					"hospitality": 0.7
+				}
+			],
+			"separators": [],
+			"props": {}
+		},
+		{
+			"name": "cargo",
+			"columns": [
+				{
+					"typeStr": "0",
+					"name": "id"
+				},
+				{
+					"typeStr": "1",
+					"name": "name",
+					"display": null
+				},
+				{
+					"typeStr": "3",
+					"name": "baseWeight"
+				},
+				{
+					"typeStr": "3",
+					"name": "unused",
+					"opt": true
+				}
+			],
+			"lines": [
+				{
+					"id": "cargo0",
+					"name": "Very Poor Cargo",
+					"baseWeight": 2,
+					"unused": 5
+				},
+				{
+					"id": "cargo1",
+					"name": "Poor Cargo",
+					"baseWeight": 1,
+					"unused": 5
+				},
+				{
+					"id": "cargo2",
+					"name": "Medium Cargo",
+					"baseWeight": 1,
+					"unused": 5
+				},
+				{
+					"id": "cargo3",
+					"name": "Rich Cargo",
+					"baseWeight": 2,
+					"unused": 5
+				},
+				{
+					"id": "cargo4",
+					"name": "Very Rich Cargo",
+					"baseWeight": 1,
+					"unused": 5
+				}
+			],
+			"props": {},
+			"separators": []
+		}
+	],
+	"customTypes": [],
+	"compress": false
+}

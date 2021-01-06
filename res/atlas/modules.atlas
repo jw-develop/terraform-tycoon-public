@@ -1,0 +1,90 @@
+
+modules.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+moduleA0
+  xy: 0, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleA1
+  xy: 64, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleA2
+  xy: 128, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleA3
+  xy: 192, 0
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleB0
+  xy: 0, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleB1
+  xy: 64, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleB2
+  xy: 128, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleB3
+  xy: 192, 64
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleC0
+  xy: 0, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleC1
+  xy: 64, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleC2
+  xy: 128, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+moduleC3
+  xy: 192, 128
+  size: 64, 64
+  rotate: false
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

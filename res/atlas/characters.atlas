@@ -1,0 +1,566 @@
+
+characters.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+passengerA0
+  xy: 0, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA1
+  xy: 32, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA2
+  xy: 64, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA3
+  xy: 96, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA4
+  xy: 128, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA5
+  xy: 160, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA6
+  xy: 192, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA7
+  xy: 224, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA8
+  xy: 256, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA9
+  xy: 288, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA10
+  xy: 320, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA11
+  xy: 352, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA12
+  xy: 384, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA13
+  xy: 416, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA14
+  xy: 448, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerA15
+  xy: 480, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB0
+  xy: 0, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB1
+  xy: 32, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB2
+  xy: 64, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB3
+  xy: 96, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB4
+  xy: 128, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB5
+  xy: 160, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB6
+  xy: 192, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB7
+  xy: 224, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB8
+  xy: 256, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB9
+  xy: 288, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB10
+  xy: 320, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB11
+  xy: 352, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB12
+  xy: 384, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB13
+  xy: 416, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB14
+  xy: 448, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerB15
+  xy: 480, 32
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC0
+  xy: 0, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC1
+  xy: 32, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC2
+  xy: 64, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC3
+  xy: 96, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC4
+  xy: 128, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC5
+  xy: 160, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC6
+  xy: 192, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC7
+  xy: 224, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC8
+  xy: 256, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC9
+  xy: 288, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC10
+  xy: 320, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC11
+  xy: 352, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC12
+  xy: 384, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC13
+  xy: 416, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC14
+  xy: 448, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerC15
+  xy: 480, 64
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD0
+  xy: 0, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD1
+  xy: 32, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD2
+  xy: 64, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD3
+  xy: 96, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD4
+  xy: 128, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD5
+  xy: 160, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD6
+  xy: 192, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD7
+  xy: 224, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD8
+  xy: 256, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD9
+  xy: 288, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD10
+  xy: 320, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD11
+  xy: 352, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD12
+  xy: 384, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD13
+  xy: 416, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD14
+  xy: 448, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerD15
+  xy: 480, 96
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE0
+  xy: 0, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE1
+  xy: 32, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE2
+  xy: 64, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE3
+  xy: 96, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE4
+  xy: 128, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE5
+  xy: 160, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE6
+  xy: 192, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE7
+  xy: 224, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE8
+  xy: 256, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE9
+  xy: 288, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE10
+  xy: 320, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE11
+  xy: 352, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE12
+  xy: 384, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE13
+  xy: 416, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE14
+  xy: 448, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+passengerE15
+  xy: 480, 128
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

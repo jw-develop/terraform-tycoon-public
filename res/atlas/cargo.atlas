@@ -1,0 +1,62 @@
+
+cargo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cargo0
+  xy: 0, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo1
+  xy: 32, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo2
+  xy: 64, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo3
+  xy: 96, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo4
+  xy: 128, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo5
+  xy: 160, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo6
+  xy: 192, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+cargo7
+  xy: 224, 0
+  size: 32, 32
+  rotate: false
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
